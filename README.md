@@ -1,1 +1,1 @@
-Playing around with threads and robots
+What if a SUPPORT BOT or a POWER BOT inhabited an individual thread.
